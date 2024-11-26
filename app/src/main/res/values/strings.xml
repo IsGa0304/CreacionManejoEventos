@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CreacionManejoEventos</string>
+
+    <string name="Tv_login">Iniciar sesión</string>
+    <string name="Et_email">Correo</string>
+    <string name="Et_password">Contraseña</string>
+    <string name="Btn_iniciar_sesion">Ingresar</string>
+    <string name="Btn_registrarme">Registrarme</string>
+
+    <string name="Tv_registrarme">Registrarme</string>
+    <string name="Et_nombres">Nombres</string>
+    <string name="Et_apellidos">Apellidos</string>
+    <string name="Et_telefono">Teléfono</string>
+    <string name="Et_r_password">Repetir contraseña</string>
+</resources>
